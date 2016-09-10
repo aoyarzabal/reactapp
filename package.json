@@ -1,0 +1,11 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "playing with react",
+  "main": "index.js",
+  "scripts": {
+ "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC"
+}
